@@ -7,7 +7,7 @@ This is a simple script that includes basic Python examples structured into inde
 [**Description of this repository**]<br>
 This is a simple script that includes many of the basic syntax and functionalities of Python, structured into separate blocks of commented pieces of code (one block for each example). You can uncomment them, one at a time, for running the exemplified use case at a valid Python IDE - as PyCharm.
 The content and examples of this script include:<br>
-- input and output (print method)<br>
+- input and output (print() function)<br>
 - strings and manipulating methods (including formatter)<br>
 - data types and conversions<br>
 - data structures (lists, dictionaries, sets, tuples) and methods<br>
